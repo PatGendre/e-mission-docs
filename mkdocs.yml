@@ -5,7 +5,8 @@ nav:
 - Issues: 'https://github.com/e-mission/e-mission-docs/issues'
 - 1. Install:
     - '1. Manual install': 'install/manual_install.md'
-    - '2. Deploying your own server to production': 'install/deploying_your_own_server_to_production.md'
+    - '2a. Deploying your own server to production': 'install/deploying_your_own_server_to_production_manual_install.md'
+    - '2B. Instructions for the dockerized install': 'install/deploying_production_docker.md'
     - '3. Configuring authentication': 'install/configuring_authentication.md'
     - '4. Multi-layer stack': 'install/multi_layer_stack.md'
 - 2. Use:
